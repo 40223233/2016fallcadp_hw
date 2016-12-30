@@ -25,7 +25,7 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="yen.20161016024324.1"><vh>快捷鍵</vh>
@@ -81,7 +81,7 @@
 <v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
 <v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
 </v>
-<v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
+<v t="leo.20161013185845.1" a="E"><vh>OnShape 操作練習</vh>
 <v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
 </v>
 <v t="yen.20161016203728.1"><vh>Nutcracker 操作練習</vh>
@@ -136,6 +136,7 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
+<v t="leo.20161230112102.1"><vh>@edit 20161230.md</vh></v>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
 <v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
@@ -675,7 +676,9 @@ make.start()
   * 平面四連桿機構模擬與驗證
   * 平面多連桿機構模擬與驗證
   * Featurescript 範例操作
-</t>
+
+零組件 分工畫圖 組合
+https://cad.onshape.com/documents/f723dfa2e7d650d3c8d16304/w/7ae4d158c2e340b2b1c0e43c/e/e8d9ea50e2cb1fdf85595f27</t>
 <t tx="leo.20161013190024.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
