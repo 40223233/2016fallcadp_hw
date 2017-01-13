@@ -151,6 +151,7 @@
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 <v t="yen.20161022120729.1"><vh>@button https server</vh></v>
+<v t="leo.20170113103336.1"><vh>@auto ..\index_pelican.html</vh></v>
 <v t="yen.20161022151728.1"><vh>產生 .key 與 .crt</vh></v>
 </vnodes>
 <tnodes>
